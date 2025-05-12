@@ -16,7 +16,7 @@
 
 #### Using Custom Trained Weights
 1、Follow the training steps above.    
-2、In deeplab.py, update the following parameters to match your trained model
+2、In DS.py, update the following parameters to match your trained model
 3、Run predict.py and input the image path for prediction
 4、Configure predict.py for FPS testing, folder-wide testing
    
